@@ -149,6 +149,6 @@ function testTheMake () {
   return BMWAndAudi
 }
 
-testTheMak();
+testTheMake();
 
 console.log(JSON.stringify(BMWAndAudi));
